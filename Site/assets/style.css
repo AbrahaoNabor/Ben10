@@ -1,0 +1,25 @@
+body{
+    background-color: #11151C;
+}
+p {
+    color: white;
+    text-align:justify;
+    font-size: 22px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: 25px 50px 75px 100px;
+    background-color: #364156;
+    border-radius: 15px;
+    font-family: arial;
+}
+h1{
+    color: white;
+    text-align: center; 
+    font-size: 65px;
+}
+h2 {
+    margin-left: 80px;
+    color: white;
+    font-size: 45px;   
+}   
